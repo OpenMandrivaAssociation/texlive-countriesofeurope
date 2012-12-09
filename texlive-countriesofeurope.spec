@@ -55,3 +55,12 @@ cartographic scale.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar dvips fonts tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Aug 09 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.21-2
++ Revision: 813464
+- Update to latest release.
+- Import texlive-countriesofeurope
+- Import texlive-countriesofeurope
+
