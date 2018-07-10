@@ -6,7 +6,7 @@
 # catalog-version 0.21
 Name:		texlive-countriesofeurope
 Version:	0.21
-Release:	10
+Release:	11
 Summary:	A font with the images of the countries of Europe
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/countriesofeurope
