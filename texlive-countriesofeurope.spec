@@ -1,6 +1,6 @@
 Name:		texlive-countriesofeurope
 Version:	54512
-Release:	1
+Release:	2
 Summary:	A font with the images of the countries of Europe
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/countriesofeurope
