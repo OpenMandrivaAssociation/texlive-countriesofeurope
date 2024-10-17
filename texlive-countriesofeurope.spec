@@ -3,7 +3,7 @@ Version:	54512
 Release:	2
 Summary:	A font with the images of the countries of Europe
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/fonts/countriesofeurope
+URL:		https://www.ctan.org/tex-archive/fonts/countriesofeurope
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/countriesofeurope.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/countriesofeurope.doc.r%{version}.tar.xz
